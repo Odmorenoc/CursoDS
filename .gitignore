@@ -1,0 +1,10 @@
+/calculo/matematicasDiscretas
+/venv/*
+/Estadistica/notas
+*.csv
+*.png
+*.pdf
+*.JPG
+*.jpeg
+*.docx
+*.xlsx
